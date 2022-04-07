@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ApostolisGaros/ChoosyProject">
+  <a href="https://github.com/wholespace/react-native-Choosy">
     <img src="frontend/assets/TickLogo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,7 +18,7 @@
   <p align="center">
     The freshest mobile application for your photo polls!
     <br />
-    <a href="https://github.com/ApostolisGaros/ChoosyProject"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/wholespace/react-native-Choosy"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -100,7 +100,7 @@ With regard to the principles mentioned above, we used the following technologie
 -   [Express.js](https://expressjs.com/)
 -   [MongoDB](https://www.mongodb.com/)
 
-More details about the implementation and practises used can be found inside the [frontend](https://github.com/ApostolisGaros/ChoosyProject/tree/main/frontend) and [backend](https://github.com/ApostolisGaros/ChoosyProject/tree/main/backend) folders.
+More details about the implementation and practises used can be found inside the [frontend](https://github.com/wholespace/react-native-Choosy/tree/main/frontend) and [backend](https://github.com/wholespace/react-native-Choosy/tree/main/backend) folders.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,23 +110,13 @@ More details about the implementation and practises used can be found inside the
 
 <!-- CREATORS -->
 
-## Creators
-
-This project was created by [Apostolis Garos](https://github.com/ApostolisGaros) and [Nikos Vlachakis](https://github.com/NikosVlachakis), two undergraduate students studying Electrical and Computer Engineering at National Technical University of Athens. 
-
-We both contributed at every part of the design, development and deployment of the entire system and application. Coming from a period of thoroughly studying software engineering through university classes and personal online research, this was our first production level project. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 
 ## Contact
 
-Apostolis Garos - [LinkedIn](https://www.linkedin.com/in/apostolis-garos-603902197/) - [apostolisgaros@gmail.com](mailto:apostolisgaros@gmail.com)
-
-Nikos Vlachakis - [LinkedIn](https://www.linkedin.com/in/nikos-vlachakis-49a33815a/) - [nvlachakis1999@gmail.com](mailto:nvlachakis1999@gmail.com)
+wholespace - [LinkedIn](https://www.linkedin.com/in/wholespace/) - [wholespace.214@gmail.com](mailto:wholespace.214@gmail.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,15 +136,15 @@ Distributed under the BSD-3-Clause License. See `LICENSE.txt` for more informati
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ApostolisGaros/ChoosyProject/graphs/contributors
+[contributors-url]: https://github.com/wholespace/react-native-Choosy/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ApostolisGaros/ChoosyProject/network/members
+[forks-url]: https://github.com/wholespace/react-native-Choosy/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ApostolisGaros/ChoosyProject/stargazers
+[stars-url]: https://github.com/wholespace/react-native-Choosy/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/ApostolisGaros/ChoosyProject/issues
+[issues-url]: https://github.com/wholespace/react-native-Choosy/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/ApostolisGaros/ChoosyProject/blob/master/LICENSE.txt
+[license-url]: https://github.com/wholespace/react-native-Choosy/blob/master/LICENSE.txt
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram&colorB=555
 [instagram-link]: https://www.instagram.com/choosy_app/
 [app-store-shield]: https://img.shields.io/badge/-appstore-black.svg?style=for-the-badge&logo=appstore&colorB=555
